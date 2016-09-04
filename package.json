@@ -5,9 +5,7 @@
   "private": true,
   "dependencies": {
     "body-parser": "^1.13.3",
-    "express": "^4.13.3"
-  },
-  "devDependencies": {
+    "express": "^4.13.3",
     "mongoose": "^4.6.0"
   }
 }
